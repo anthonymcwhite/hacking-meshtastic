@@ -21,7 +21,9 @@
 ## 302 Meshtastic
 <tt>302 Meshtastic (aka de mesh net) is comprised of a handfull of operaators and enthusiasts from the state of Delaware, primarily Wilmington, De (Northern/New Castle County)</tt></br>
 
-<tt>A *special* thanks to the **~Opportunistic Bird Watchers~** of Delaware!!</tt></br>
-<tt>###*"only when they land"*###</tt></br>
+<tt>A *special* thanks to the **Opportunistic Bird Watchers** of Delaware!!</tt></br>
+<tt>###############################</tt></br>
+<tt>####*"only when they land"*####</tt></br>
+<tt>###############################</tt></br>
 
 <tt>created & maintained by 'terrible tone'</tt>
