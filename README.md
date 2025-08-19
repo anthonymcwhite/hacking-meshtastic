@@ -23,7 +23,7 @@
 
 <tt>A *special* thanks to the **Opportunistic Bird Watchers** of Delaware!!</tt></br>
 <tt>###############################</tt></br>
-<tt>####*"only when they land"*####</tt></br>
+<tt>#### *"only when they land"* ####</tt></br>
 <tt>###############################</tt></br>
 
 <tt>created & maintained by 'terrible tone'</tt>
