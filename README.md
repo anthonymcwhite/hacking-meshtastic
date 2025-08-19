@@ -1,4 +1,4 @@
-<p align="center"><img src="https://github.com/anthonymcwhite/hacking-meshtastic/blob/main/images/logo-banner2.png" width="200"/></p>
+<p align="center"><img src="https://github.com/anthonymcwhite/hacking-meshtastic/blob/main/images/logo-banner.png" width="200"/></p>
 
 ---
 
