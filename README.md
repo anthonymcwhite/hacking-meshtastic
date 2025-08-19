@@ -1,9 +1,11 @@
 # hacking-meshtastic</br>
-### <tt>a collection of resources for meshtastic research and live networks.</tt>  
+<tt>a collection of resources for meshtastic research and live networks.</tt>  
 <hr noshade>
 
 ### 1. Resources </br>
 <tt>Here you will find general information related to meshtastic in one form or another.</tt></br>  
+
+<tt># If you are completely new to the meshtastic community, a good place to start is here ---> [Meshtastic Github](https://github.com/meshtastic) <--- </tt></br>
 <hr noshade>
 <br>
 
