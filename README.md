@@ -1,3 +1,7 @@
+<p align="center"><img src="https://github.com/anthonymcwhite/hacking-meshtastic/blob/main/images/logo-banner2.png" width="200"/></p>
+
+---
+
 # hacking-meshtastic</br>
 <tt>a collection of resources for meshtastic research and associated networks.</tt>  
 <hr noshade>
