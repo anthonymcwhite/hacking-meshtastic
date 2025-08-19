@@ -7,7 +7,7 @@
 
 <tt># If you are completely new to the meshtastic community, a good place to start is here ---> [Meshtastic Home Page](https://meshtastic.org/) <--- </tt></br>
 <tt># Or here for a closer look at the development... ---> [Meshtastic Github](https://github.com/meshtastic) <--- </tt></br>
-<tt># To interact with other members of the Meshtastic Community, introduce yourself on the --> [Mesh. Discord](https://discord.com/invite/meshtastic) <-- </tt></br>
+<tt># To interact with other members of the Meshtastic Community, introduce yourself on the --> [Meshtastic Discord](https://discord.com/invite/meshtastic) <-- </tt></br>
 <hr noshade>
 <br>
 
