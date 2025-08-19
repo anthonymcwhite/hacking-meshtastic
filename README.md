@@ -1,5 +1,5 @@
 # hacking-meshtastic</br>
-<tt>a collection of resources for meshtastic research and live networks.</tt>  
+<tt>a collection of resources for meshtastic research and associated networks.</tt>  
 <hr noshade>
 
 ### 1. Resources </br>
