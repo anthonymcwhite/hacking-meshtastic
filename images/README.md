@@ -1,4 +1,4 @@
-# Hacking-Meshtastic — Image Appendix
+# hacking-meshtastic/images
 
 Welcome to the **image appendix** for this repo.  
 This section collects diagrams, icons, and references to help break down Meshtastic + radio community concepts.
@@ -8,7 +8,7 @@ This section collects diagrams, icons, and references to help break down Meshtas
 ## 📡 Core Diagrams
 
 <p align="center">
-  <img src="https://example.com/mesh-diagram.png" width="400" alt="Mesh Network Diagram"/>
+  <img src="https://github.com/anthonymcwhite/hacking-meshtastic/blob/main/images/nesh-net.png"/>
 </p>
 
 *Above: Basic Meshtastic node-to-node communication flow.*
